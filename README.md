@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
 </div>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx4bmdhMjBiMzNiMTk5bTlpMXpkazJocHF5dzFsaHViaHk0NmMybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6foCnt5DOjiL8wsGaV/giphy.webp/giphy.gif" width="300"/>
+  <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="200"/>
 
 
   <div align=center">
@@ -27,6 +27,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,mongodb" width="300" />
   </a>
 </p>
